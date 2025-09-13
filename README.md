@@ -11,5 +11,8 @@ The project implemented the following key enhancements:
 *   **External Rule Management:** Enabled dynamic definition and application of blocking rules through an external JSON file, allowing administrators to update policies without controller restarts.
 In essence, the project transformed a rigid DoS defense into an intelligent, granular, and flexible system, enhancing network resilience and administrative control.
 
+## Documentation
+The repository files contain an extract from the project documentation, which is useful for illustrating the approach used in drafting the documentation and implementing the code.
+
 ## Accessing the code
 If you are a recruiter or a developer interested in viewing the source code, please open an issue in this repository with your request. I will provide access after reviewing it.
