@@ -9,6 +9,7 @@ The project implemented the following key enhancements:
 *   **Adaptive Blocking Policy:** Introduced an "observation period" after a block expires. If a malicious source re-engages during this period, it is immediately re-blocked, preventing recurring attacks.
 *   **Modular Architecture:** Refactored the controller into distinct, lightweight threads for monitoring, decision-making, and enforcement, communicating via queues for improved maintainability.
 *   **External Rule Management:** Enabled dynamic definition and application of blocking rules through an external JSON file, allowing administrators to update policies without controller restarts.
+
 In essence, the project transformed a rigid DoS defense into an intelligent, granular, and flexible system, enhancing network resilience and administrative control.
 
 ## Documentation
